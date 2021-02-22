@@ -1,0 +1,219 @@
+<!DOCTYPE>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Experience</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+
+</head>
+<body>
+<div id="header-wrapper">
+	<div id="header" class="container">
+		<div id="logo">
+			<h1><a>Savannah Hirschi</a></h1>
+			<span>Dixie High School Student </div>
+		<div id="menu">
+			<ul>
+			    <li><a accesskey="1" href="index.html" title="">About</a></li>
+				<li class="current_page_item"><a href="experience.html" accesskey="2" title="">Experience</a></li>
+				<li><a href="education.html" accesskey="3" title="">Education</a></li>
+				<li><a href="portfolio.html" accesskey="4" title="">Portfolio</a></li>
+				<li><a href="certifications.html" accesskey="5" title="">Certifications</a></li>
+				<li><a href="contact.html" accesskey="6" title="">Contact</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div id="wrapper2">
+	<div id="welcome" class="container">
+		<div class="title">
+			<h2>Internships & Volunteering</h2>
+		</div>
+		<p class="hi">These are some internships and volunteer opportunties that I was a part of.</p>	
+	</div>
+</div>
+<div id="three-column" class="container">
+	<div><span class="arrow-down"></span></div>
+	<div id="tbox1"> <img class="icon" src="data:image/png;base64,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">
+		<div class="title">
+			<h2>Graphic Designer & Writer</h2>
+		</div>
+		<p> I was a graphic designer for EDify Talks from <strong>June to September in 2020</strong>.</p>
+		<p>Their mission is to provide adolescents with the tools they can use to become educated on eating disorders(and the deadly side effects), to self-love themselves, and to sustain a happy relationship with food. My role was to create 1-2 graphics for writing a week, writing topics when asked, and helping where we were short of volunteers/interns.</p>
+		</div>
+	<div id="tbox2"> <img class="icon" src="https://s3.amazonaws.com/quiin/organizations/pictures/000/024/389/original/GIYLS_LOGO_%281%29.png?1596041061">
+		<div class="title">
+			<h2>Marketing Intern</h2>
+		</div>
+		<p>I was a marketing intern for Global Innovation Youth Leader Summit from <strong>June to September in 2020</strong>.</p>
+		<p>Their mission was "Our purpose is to promote global social change through an entrepreneurial lens starting at local levels by providing youth, especially disadvantaged youth, a platform for community-based collaboration, access to resources, and idea development." My role was to create graphics for events, find speakers for summit and creating marketing strategies.</p>
+		</div>
+	<div id="tbox3"> <img class="icon" src="https://d1fdloi71mui9q.cloudfront.net/xLWuBEb9SSScnu4i47or_EgP56HUx9vTOY13W">
+		<div class="title">
+			<h2>Content Manager</h2>
+		</div>
+		<p>I was a content manager at TheGirlsource.co from <strong>September to October in 2020</strong>.</p>
+		<p>It was sadly disbanded as the founder had too much going on to continue. Our mission was to try to uncover the opportunities, give advice on the various fields girls are interested in, through newsletters/issues! My role was to create graphics, find opportunities, create layout design for newsletter, and help where we were short on volunteers.</p>
+		</div>
+</div>
+</div>
+<div id="three-column" class="container">
+	<div><span class="arrow-down"></span></div>
+	<div id="tbox1"> <img class="icon" src="https://d1fdloi71mui9q.cloudfront.net/tgJZOGcNSke17h9LhWea_NnioM39zPEVbk02i">
+		<div class="title">
+			<h2>Science & Tech Mentor</h2>
+		</div>
+		<p>I was a science and tech mentor at Mission Impassionable from <strong>June to November in 2020</strong>.</p>
+		<p>Their mission is  to educate, empower, and elevate underrepresented groups and provide an opportunity for them to discover their passions. My role was to create mentorship presentation for science category, create graphics for the organizations events, mentor one on one for mentorship program, and be present for eight weeks of tech and science curriculum</p>
+		</div>
+	<div id="tbox2"> <img class="icon" src="https://d1fdloi71mui9q.cloudfront.net/1NKsGXMmTDasYdgpZTvv_4FWqtd0zdQqNN92i">
+		<div class="title">
+			<h2>Graphic Designer & Team Member</h2>
+		</div>
+		<p>I was a team member at Breaking Barriers from <strong>August to November in 2020</strong>.</p>
+		<p>Their mission is to be actively pushing the status quo by blazing the path to break universal barriers. My role was to create graphics for events, design current website, and other team member duties.</p>
+		</div>
+	<div id="tbox3"> <img class="icon" src="data:image/jpeg;base64,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">
+		<div class="title">
+			<h2>VA Pharmacy Volunteer</h2>
+		</div>
+		<p>I volunteered in the Ventrans Affair Hospital for the entire summer of 2019. The Temple, TX Veterans Affair Hospital had an amazing opportunity that let students volunteer a whole summer around the hospital. I was mainly stationed in the pharmacy from 8-4 organizing medications and helping veterans in that area. We also helped organize events and handle PR.</p>
+		</div>
+</div>
+</div>
+<div id="wrapper2">
+	<div id="welcome" class="container">
+		<div class="title">
+			<h2>Events</h2>
+		</div>
+		<p class="hi">These are some events and hackathons I attended.</p>	
+	</div>
+</div>
+<div id="three-column" class="container">
+	<div><span class="arrow-down"></span></div>
+	<div id="tbox1"> 
+    <img class="icon" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/243/668/datas/medium.png">
+		<div class="title">
+			<h2>MakeSPP 2020 Hackathon</h2>
+		</div>
+		<p>Took place on October 9th - 11th.</p>
+		<p><strong>I won third place overall.</strong></p>
+		<p>MakeSPP virtually brings together over 500 innovative young minds for a three-day hackathon and technology conference. we're a diverse and creative community of students dedicated to solving some of the most challenging problems with technology. beginner focused. expert welcomed. Learn to code websites and applications with fun project-based workshops & skilled mentors. No experience necessary!</p>
+		<a href="https://devpost.com/software/lexian" class="button">See my project</a>
+	</div>
+	<div id="tbox2"> 
+    <img class="icon" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/244/187/datas/medium.jpg">
+		<div class="title">
+			<h2>OwlHacks Hackathon</h2>
+		</div>
+		<p>Took place on October 17th - 18th.</p>
+		<p>OwlHacks is back and will be virtual! OwlHacks is Temple University’s annual, student-organized hackathon. First hosted in 2019, OwlHacks received great projects, turnout, and support from our sponsors and university; OwlHacks 2020 is going further. With workshops, panels, games, swag and more, OwlHacks is a fun and educational experience for all levels of technical proficiency. From freshman to seniors, and undergrads to grads, all are welcome at OwlHacks.</p>
+  </div>
+	<div id="tbox3"> 
+    <img class="icon" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/001/249/567/datas/full_width.png">
+		<div class="title">
+			<h2>HackCancer Solutions Hackathon</h2>
+		</div>
+		<p>Took place on October 23th - 24th.</p>
+		<p><strong>I won the popular vote.</strong></p>
+		<p>FREE 24-hour hackathon on October 23, 2020, to put their skills to the test, learn new skills, connect with professionals in the tech industry, collaborate with students that share similar interests, gain hands-on experience, and explore the world of technology. There will be workshops and mentors to help you along so no experience is required.</p>
+		<a href="https://devpost.com/software/lenio" class="button">See my project</a>
+	</div>
+</div>
+</div>
+<div id="three-column" class="container">
+	<div><span class="arrow-down"></span></div>
+	<div id="tbox1"> 
+    <img class="icon" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/249/820/datas/medium.png">
+		<div class="title">
+			<h2>Technica Hackathon</h2>
+		</div>
+		<p>Took place on October 24th - 25th.</p>
+		<p>Over the duration of 24 hours, women and non-binary people are immersed in tech culture and encouraged to exercise their imagination to create interesting and innovative hacks. We want to challenge our hackers to step out of their comfort zone and try something new, whether that's exploring a new technology, tinkering with hardware hacks, or coding for the very first time! This year we're introducing our beginners and hardware tracks, designed for hackers looking for extra support or interested in trying their hand at electronics. At Technica, we want our hackers to learn, grow, and meet new people.</p>
+		<a href="https://devpost.com/software/hey-neighbor" class="button">See my project</a>
+	</div>
+	<div id="tbox2"> 
+    <img class="icon" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/244/155/datas/medium.png">
+		<div class="title">
+			<h2>TechTogether Boston Hackathon</h2>
+		</div>
+		<p>Took place on November 6th - 8th.</p>
+		<p><strong>I won the best high school hack.</strong></p>
+		<p>Create a project to shape your future! Design a hack based on personal growth, social change, or environmental awareness. TechTogether Boston, Boston's largest student-run hackathon open to all female, femme, and non-binary individuals! Our mission is to empower women and femme non-binary individuals in technology to achieve, provide them with opportunities to explore the tech industry in an inspiring, encouraging, and energizing environment,create a community of inclusivity within the tech industry.</p>
+		<a href="https://devpost.com/software/orbit-study" class="button">See my project</a>
+	</div>
+	<div id="tbox3"> 
+    <img class="icon" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/180/830/datas/medium.png">
+		<div class="title">
+			<h2>WWP Hacks</h2>
+		</div>
+		<p>Took place on November 21st - 22nd.</p>
+		<p>WWPHacks is a collaborative programming competition where teams of up to four work against the clock to build innovative technological solutions to real world problems. Participants will have 24 hours to communicate and work on their project with their team, with the opportunity to participate in numerous workshops, mini-events, and meet like-minded people along the way. WWPHacks is open to people of all backgrounds and skill levels provided they are enrolled in a high school, pursuing a bachelors degree, or seeking a non-traditional education.</p>
+		<a href="https://devpost.com/software/computer-careers" class="button">See my project</a>
+	</div>
+</div>
+</div>
+<div id="three-column" class="container">
+	<div><span class="arrow-down"></span></div>
+	<div id="tbox1"> 
+    <img class="icon" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/244/155/datas/medium.png">
+		<div class="title">
+			<h2>TechTogether New York</h2>
+		</div>
+		<p>Took place on December 4th - 6th.</p>
+		<p>TechTogether values a supportive, strong, and healthy community. Because of circumstances surrounding COVID-19, TechTogether New York 2020 will be hosted virtually this year. It’s important now more than ever to come together (virtually, of course) and support one another as we face the challenges of this year, as a community. The theme for TechTogether New York 2020, Embracing Uncertainty.</p>
+		<a href="https://devpost.com/software/pinkie-pals" class="button">See my project</a>
+	</div>
+    <div id="tbox2"> <img class="icon" src="https://d1fdloi71mui9q.cloudfront.net/Jl7ZAg4TzQAeGAzlfr5w_5a01syUDeSE3qNXP">
+		<div class="title">
+			<h2>EmpowerEcon Financial Literacy Camp</h2>
+		</div>
+		<p>Took place on December 20th - 22nd.</p>
+		<p>EmpowerEcon is an organization giving youth financial and economic skills to approach financial topics with confidence. Not only will we be teaching you exactly what you need to know about managing finances after high school, but we will also give you the opportunity to gain practical experience with those concepts through fun activities, games, and challenges. </p>
+    <a href="Savannah.png" download class="button">Certificate</a>
+		</div>
+    <div id="tbox3"> <img class="icon" src="https://scontent-den4-1.xx.fbcdn.net/v/t31.0-8/12594052_242716736059931_3512231358932752345_o.png?_nc_cat=108&ccb=2&_nc_sid=85a577&_nc_ohc=CRayiiaSdc8AX96AViz&_nc_ht=scontent-den4-1.xx&oh=39507146d678c593c615d96a3db4448a&oe=602EB3F7">
+		<div class="title">
+			<h2>Anti-Human Trafficking Youth Summit</h2>
+		</div>
+		<p>Took place on January 9th.</p>
+		<p>The summit will focus on the youth aspects of helping in the fight against human trafficking and equipping parents, youth and community stakeholders with recognizing signs of human trafficking and how to report.
+    Youth will be equipped with the tools they need to recognize warning signs and start a very important conversation about this issue.</p>
+    <a href="BHTC.pdf" download class="button">Certificate</a>
+		</div>
+</div>
+</div>
+<div id="three-column" class="container">
+	<div><span class="arrow-down"></span></div>
+	<div id="tbox1"> 
+    <img class="icon" src="https://hoyahacks.georgetown.domains/wp-content/uploads/2020/08/hoyahacks_Tracks_education-e1597962429729.png">
+		<div class="title">
+			<h2>HOYA Hacks</h2>
+		</div>
+		<p>Took place on January 29th - 31st.</p>
+		<p>They are Georgetown University’s premiere hackathon and every year they host students from across the globe for a 36 hour coding convention. This year, they were fully virtual! Their goal is to bring together students interested in building something cool, with the bonus opportunity to network with industry professionals and win awards! Any and all skill levels are welcome!</p>
+	</div>
+    <div id="tbox2"> <img class="icon" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHAjwSaWepraQ/company-logo_200_200/0/1605161577328?e=2159024400&v=beta&t=UDxfPDDP-OwHkCZiI2mmisZfEd0rqfNWmBINz6RDyAo">
+		<div class="title">
+			<h2>Hack(H)er 413</h2>
+		</div>
+		<p>Took place on February 13th.</p>
+    <p><strong>I won 5th place</strong></p>
+		<p>The first all-women (cis and trans) and non-binary students' hackathon in Western Massachusetts.
+    Over the course of 8 hours, hackathon participants are encouraged to learn and develop new technical skills, network with sponsor company representatives, and innovate with passion. This hackathon is entirely student organized and aims to increase diversity and inclusion in the technology industry.</p>
+		</div>
+    <div id="tbox3"> <img class="icon" src="https://pbs.twimg.com/profile_images/1031603712341561344/V2k_d3ny_400x400.jpg">
+		<div class="title">
+			<h2>Meet & Greet - Women in Cybersecurity (WICyS) Utah Affiliate</h2>
+		</div>
+		<p>Took place on February 17th.</p>
+		<p>WiCyS Utah is an affiliate that embodies these same commitments with a focus on catering to the needs of women in Utah. It will do this through undertaking activities to provide community, mentoring, and networking while promoting recruitment, retention, and advancement of women in cybersecurity.</p>
+		</div>
+</div>
+</div>
+</body>
+</html>
